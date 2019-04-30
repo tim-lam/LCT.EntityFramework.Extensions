@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "samples", "samples\samples.csproj", "{6737FA9A-E270-44D0-BAC7-967D4F23B29F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCT.EntityFramework.Extensions", "..\..\EFGenericRepo\LCT.EntityFramework.Extensions\LCT.EntityFramework.Extensions.csproj", "{E078DC61-33AD-45C5-8A52-DFAD7F56C688}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6737FA9A-E270-44D0-BAC7-967D4F23B29F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6737FA9A-E270-44D0-BAC7-967D4F23B29F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6737FA9A-E270-44D0-BAC7-967D4F23B29F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6737FA9A-E270-44D0-BAC7-967D4F23B29F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E078DC61-33AD-45C5-8A52-DFAD7F56C688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E078DC61-33AD-45C5-8A52-DFAD7F56C688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E078DC61-33AD-45C5-8A52-DFAD7F56C688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E078DC61-33AD-45C5-8A52-DFAD7F56C688}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7AC0D4C-3099-430F-B0C0-4D959CF236AD}
+	EndGlobalSection
+EndGlobal
